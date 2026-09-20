@@ -43,9 +43,11 @@ pending. This repository reflects the independent implementation work and will b
 updated with the formal citation once the paper is published.
 
 ## Paper Team
+
 This work was developed collaboratively as part of a 4-author submission to ICCTVB 2025:
-Neel Khairnar, Vedant Jadhav, Tanmay Shinde, and Namrata Shinde . This repository specifically contains code and
-experiments I (Tanmay Shinde) developed as part of that collaboration.
+Neel Khairnar, Vedant Jadhav, Tanmay Shinde, and Namrata Shinde, under the guidance of
+Dr. Rahul Sonkamble and Dr. Swati Shirke. This repository specifically contains code and
+experiments developed by Tanmay Shinde as part of that collaboration.
 
 ## License
 
