@@ -42,11 +42,10 @@ Paper submitted and reviewed (Accept with minor changes) at ICCTVB 2025; publica
 pending. This repository reflects the independent implementation work and will be
 updated with the formal citation once the paper is published.
 
-## Author
-
-Tanmay Shinde — [GitHub](https://github.com/Tanny28) ·
-[LinkedIn](https://linkedin.com/in/tanmay-shinde-840a05340) ·
-[Portfolio](https://tanmay-shinde-28.vercel.app)
+## Paper Team
+This work was developed collaboratively as part of a 4-author submission to ICCTVB 2025:
+Neel Khairnar, Vedant Jadhav, Tanmay Shinde, and Namrata Shinde . This repository specifically contains code and
+experiments I (Tanmay Shinde) developed as part of that collaboration.
 
 ## License
 
